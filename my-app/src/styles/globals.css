@@ -14,3 +14,9 @@ h1{
   padding: 100;
   text-align: left;
 }
+button{
+  font-size: 30px;
+  color: rgb(255, 38, 0);
+  background: #2dd9ef;
+
+}

@@ -1,5 +1,5 @@
 import Head from 'next/head'
-
+import Button from './_button'
 
 export default function Home() {
   return (
@@ -12,10 +12,13 @@ export default function Home() {
       </Head>
       <main>
         Hello Words!!!
+        <br></br>
         <h1> Ejercicio Nº9</h1>
+        <br></br>
 
 
       </main>
+      <Button></Button>
     </>
   )
 }
